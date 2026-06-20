@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working at Medsender as a Senior Software Engineer and building a small portfolio of free apps on the side (HindiAI.com, GermanAI.org, SpanishAI.org, FrenchAI.org etc.)
+- 🌱 I’m currently learning about LLMs, evals, verifiers, and SEO/Growth for my web apps.
+- 💬 Ask me about: Working in the gaming industry, Identity & Auth systems, AI wrapper apps, Voice Models.
+- 📫 How to reach me: farezvad@gmail.com
+- ⚡ Fun fact: I actually learned how to sing about a decade ago.
+
 <!--
 **farezv/farezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
