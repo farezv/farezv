@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at Medsender as a Senior Software Engineer and building a small portfolio of free apps on the side (HindiAI.com, GermanAI.org, SpanishAI.org, FrenchAI.org etc.)
+- 🔭 I’m currently working at Medsender as a Senior Software Engineer and building a small portfolio of free apps on the side ([HindiAI.com](https://hindiai.com), [GermanAI.org](GermanAI.org), [SpanishAI.org](SpanishAI.org), [FrenchAI.org](FrenchAI.org) etc.)
 - 🌱 I’m currently learning about LLMs, evals, verifiers, and SEO/Growth for my web apps.
 - 💬 Ask me about: Working in the gaming industry, Identity & Auth systems, AI wrapper apps, Voice Models.
 - 📫 How to reach me: farezvad@gmail.com
