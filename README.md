@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at Medsender as a Senior Software Engineer and building a small portfolio of free apps on the side ([HindiAI.com](https://hindiai.com), [GermanAI.org](GermanAI.org), [SpanishAI.org](SpanishAI.org), [FrenchAI.org](FrenchAI.org) etc.)
-- 🌱 I’m currently learning about LLMs, evals, verifiers, and SEO/Growth for my web apps.
+- 🔭 I’m currently working at Medsender as a Senior Software Engineer and have built a small portfolio of free apps ([HindiAI.com](https://hindiai.com), [GermanAI.org](GermanAI.org), [SpanishAI.org](SpanishAI.org), [FrenchAI.org](FrenchAI.org) etc.)
+- 🌱 Learning about LLMs, evals, verifiers, voice ai tools and SEO/GEO.
 - 💬 Ask me about: Working in the gaming industry, Identity & Auth systems, AI wrapper apps, Voice Models.
 - 📫 How to reach me: farezvad@gmail.com
 - ⚡ Fun fact: I actually learned how to sing about a decade ago.
